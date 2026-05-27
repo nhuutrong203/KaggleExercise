@@ -1,0 +1,18 @@
+# Kaggle credentials
+.kaggle/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# Virtual env
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Data files (optional)
+*.csv
+*.zip
